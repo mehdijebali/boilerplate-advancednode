@@ -1,5 +1,5 @@
 # [Introduction to Advanced Node and Express Challenges](https://www.freecodecamp.org/learn/quality-assurance/advanced-node-and-express/)
-We build a chat application with a sign-in system using Express.js and Node.js javascript libraries 
+We build a chat application with a sign-in system using Express.js and Node.js javascript libraries.
 
 To implement the sign-in system safely, we need to learn about authentication. This is the act of verifying the identity of a person or process.
 
